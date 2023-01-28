@@ -1,3 +1,4 @@
+# Image recognision system
 from imageai.Classification import ImageClassification
 import os
  
